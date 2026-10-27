@@ -1,0 +1,15 @@
+name: Local Agent Bridge
+repo: https://github.com/pulvasnecov-hash/local-agent-bridge
+tagline: Local task handoff to OpenCode with task IDs and a shared message board
+description: >-
+  MIT-licensed Python CLI that hands UTF-8 task files from local assistants
+  such as Codex to separate OpenCode runs. Includes an append-only coordination
+  board, Windows launchers, optional timeouts, and a reproducible offline demo.
+  Uses the Python standard library.
+tags:
+  - cli
+  - integrations
+  - agents
+  - python
+  - windows
+  - local-first
